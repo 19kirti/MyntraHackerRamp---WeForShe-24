@@ -9,7 +9,7 @@ const quizData = [
       options: ["Gucci", "Chanel", "Louis Vuitton", "Prada"],
       answer: "Louis Vuitton"
     },
-    // Add more questions here...
+    // More questions can be added here
   ];
   
   const questionElement = document.getElementById("question");
