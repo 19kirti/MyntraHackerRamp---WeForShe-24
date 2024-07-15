@@ -5,10 +5,20 @@ const quizData = [
       answer: "Sustainable fashion"
     },
     {
-      question: "Q.2: Which fashion brand is known for its luxury handbags?",
-      options: ["Gucci", "Chanel", "Louis Vuitton", "Prada"],
-      answer: "Louis Vuitton"
-    },
+        question: "Q.2: What type of clothing is most popular in summer?",
+        options: ["Tank Tops", "Scarves", "Overcoats", "Bodycons"],
+        answer: "Tank Tops"
+      },
+      {
+        question: "Q.3: Which fashion brand is known for its luxury handbags?",
+        options: ["Gucci", "Chanel", "Louis Vuitton", "Prada"],
+        answer: "Louis Vuitton"
+      },
+      {
+        question: "Q.4: Which footwear is commonly worn during the winter season?",
+        options: ["Flip-Flops", "Boots", "Loafers", "Sport Shoes"],
+        answer: "Boots"
+      },  
     // More questions can be added here
   ];
   
