@@ -1,10 +1,11 @@
 # The Fashion Content 
 
-![bg1](https://github.com/user-attachments/assets/c553e1a0-db0a-4a23-b6d4-817e30bb5d4d)
+![bg3](https://github.com/user-attachments/assets/e8666f20-0c97-41a4-ba27-b98b5c88dfcf)
+
 
 ## About 
 
-This is a web-based fashion quiz for the Myntra Platform built using HTML, CSS, and JavaScript. It provides an immersive and user-friendly experience for players to enjoy this game.
+This is a web-based collection of all the fashion-related shows for the Myntra Platform built using HTML, CSS, and JavaScript. It provides an immersive and user-friendly experience for users who want to access all the fashion resources under one roof.
 
 ## Features  
 
@@ -15,8 +16,8 @@ This is a web-based fashion quiz for the Myntra Platform built using HTML, CSS, 
 
 ## Installation  
 
-1. Clone the repository: `(https://github.com/19kirti/MyntraHackerRamp-WeForShe-24--Quiz.git)`
-2. Open the project folder: `cd MyntraHackerRamp - WeForShe'24 - Quiz`
+1. Clone the repository: `(https://github.com/19kirti/MyntraHackerRamp-WeForShe-24--VideoContentPage.git)`
+2. Open the project folder: `cd MyntraHackerRamp - WeForShe'24`
 3. Open `index.html` in your preferred web browser.
 
 ## How to operate?
