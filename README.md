@@ -9,10 +9,7 @@ This is a web-based collection of all the fashion-related shows for the Myntra P
 
 ## Features  
 
-- Any option of your choice can be selected
-- Interactive user interface
-- Score tracking
-- Get the score just after the completion of the quiz
+- Collection of best fashion-related shows under one roof.
 
 ## Installation  
 
