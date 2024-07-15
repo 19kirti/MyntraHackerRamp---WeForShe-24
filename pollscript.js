@@ -2,7 +2,7 @@ const yayButton = document.getElementById('yayButton');
 const nayButton = document.getElementById('nayButton');
 const resultElement = document.getElementById('result');
 
-let yayCount = 0;
+let yayCount = 1;
 let nayCount = 0;
 
 yayButton.addEventListener('click', () => {
