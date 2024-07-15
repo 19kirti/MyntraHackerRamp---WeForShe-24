@@ -14,7 +14,7 @@ const videoLinks = [
     {
         title: "Louis Vuitton Men's Spring-Summer 2025 Fashion Show",
         description: "Check out this awesome fashion show!",
-        thumbnail: "T3.PNG",
+        thumbnail: "3rd.jpeg",
         link: "https://www.youtube.com/live/krfcr9DtB4M?feature=shared",
     },
     {
