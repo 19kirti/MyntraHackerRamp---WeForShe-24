@@ -30,7 +30,7 @@ main {
 }
 
 .video-link {
-    background-color: #fff;
+    background-color: #f7f7f7;
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -38,7 +38,7 @@ main {
 }
 
 .video-link:hover {
-    background-color: #f7f7f7;
+    background-color: #f2a6a6;
     cursor: pointer;
 }
 
